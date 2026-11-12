@@ -4,6 +4,8 @@ Punto de venta para negocios pequeños, con **módulos que se activan según el 
 
 ### 🔗 En producción: **[controlaec.web.app](https://controlaec.web.app)**
 
+**Demo:** `demo@controla.test` · `Controla2026` — tienda de ejemplo con productos, ventas y caja ya cargados.
+
 > **Sobre este repositorio:** es una vitrina técnica. Documenta las decisiones de arquitectura. El código fuente es privado por ser un producto comercial en operación.
 
 ---
